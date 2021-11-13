@@ -6,8 +6,10 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&column=3&row=2)
 
-![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
+[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
 
+![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
 <!--
 **Aleksey-Voko/Aleksey-Voko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
