@@ -1,9 +1,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&card_width=350)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&card_width=495)
-
+![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&column=6&row=1)
 -->
