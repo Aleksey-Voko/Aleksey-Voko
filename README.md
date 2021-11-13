@@ -2,11 +2,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&card_width=340)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&column=3&row=2)
 
 ![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
-<!--
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&column=6&row=1)
--->
 
 <!--
 **Aleksey-Voko/Aleksey-Voko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
