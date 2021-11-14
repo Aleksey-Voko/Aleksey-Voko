@@ -24,6 +24,5 @@
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?logoColor=orange&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/stargazers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=orange&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%20-%20Stars&logoColor=orange&style=social">](https://github.com/OldCodersClub/faq/stargazers)
-
 [<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow/r/371584?logo=stackoverflow&logoColor=orange&style=social">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
 [<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13531449?logo=stackoverflow&logoColor=orange&style=social">](https://stackoverflow.com/users/13531449/aleksey-voko)
