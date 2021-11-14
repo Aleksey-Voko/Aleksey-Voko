@@ -20,6 +20,7 @@
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="35">](https://t.me/oldcodersclub)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="35">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="35">](https://stackoverflow.com/users/13531449/aleksey-voko)
+[<img src="https://www.tadviser.ru/images/8/82/Habr_%D0%9B%D0%9E%D0%93%D0%9E.png" alt="stackoverflow" width="35">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=orange&style=social">](https://github.com/Aleksey-Voko?tab=followers)
