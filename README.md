@@ -19,6 +19,11 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/voko_aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="35">](https://t.me/oldcodersclub)
 
-![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?color=green&logo=github">](https://github.com/Aleksey-Voko?tab=followers)
-[<img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/13531449?color=orange&label=reputation&logo=stackoverflow">](https://stackoverflow.com/users/13531449/aleksey-voko?tab=profile)
+
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=orange&style=social">](https://github.com/Aleksey-Voko?tab=followers)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?logoColor=orange&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/stargazers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=orange&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
+[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%20-%20Stars&logoColor=orange&style=social">](https://github.com/OldCodersClub/faq/stargazers)
+
+[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow/r/371584?logo=stackoverflow&logoColor=orange&style=social">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
+[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13531449?logo=stackoverflow&logoColor=orange&style=social">](https://stackoverflow.com/users/13531449/aleksey-voko)
