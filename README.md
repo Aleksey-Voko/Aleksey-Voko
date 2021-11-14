@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="giphy">](https://t.me/voko_aleksey)
 
-# Hello there 👋
+# Hello there 👋 ! #
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
@@ -20,3 +20,5 @@
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="35">](https://t.me/oldcodersclub)
 
 ![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?color=green&logo=github">](https://github.com/Aleksey-Voko?tab=followers)
+[<img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/13531449?color=orange&label=reputation&logo=stackoverflow">](https://stackoverflow.com/users/13531449/aleksey-voko?tab=profile)
