@@ -18,10 +18,11 @@
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="45">](mailto:voko.aleksey@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/voko_aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="35">](https://t.me/oldcodersclub)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="35">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="35">](https://stackoverflow.com/users/13531449/aleksey-voko)
 
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=orange&style=social">](https://github.com/Aleksey-Voko?tab=followers)
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?logoColor=orange&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/stargazers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=orange&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%20-%20Stars&logoColor=orange&style=social">](https://github.com/OldCodersClub/faq/stargazers)
-[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13531449?logo=stackoverflow&style=social&logoColor=ff0000">](https://stackoverflow.com/users/13531449/aleksey-voko)
