@@ -15,6 +15,6 @@
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="45">](mailto:voko.aleksey@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/voko_aleksey)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="35" style="border-radius: 14px;">](https://t.me/oldcodersclub)
+[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="35">](https://t.me/oldcodersclub)
 
 ![](https://komarev.com/ghpvc/?username=Aleksey-Voko)
