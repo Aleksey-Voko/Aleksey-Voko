@@ -77,5 +77,8 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
 
-<figure><!--suppress CheckTagEmptyBody, HtmlExtraClosingTag -->
-<embed src="https://wakatime.com/share/@Voko/9f18660f-f547-42c7-a967-d853378e4244.svg"></embed></figure>
+
+
+<p align="center">
+<a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/share/@Voko/d6f4fe07-c75a-4f70-a846-f5f3719b0095.png" alt="wakatime"></a>
+</p>
