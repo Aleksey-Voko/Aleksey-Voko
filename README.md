@@ -29,7 +29,7 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2&no-bg=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFF000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=solarized-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFF000)
 
 
 
