@@ -25,17 +25,17 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
 <!-- activity graph start -->
-[<img src="https://safe-garden-10440.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true&bg_color=00000000" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+[<img src="https://safe-garden-10440.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 <!-- activity graph end -->
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2&no-bg=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFF000)
+![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2&)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
 <!--
