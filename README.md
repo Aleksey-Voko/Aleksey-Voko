@@ -33,6 +33,10 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFF000)
 
 
+<!-- activity graph start -->
+[<img src="https://safe-garden-10440.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+<!-- activity graph end -->
+
 
 <!--
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
