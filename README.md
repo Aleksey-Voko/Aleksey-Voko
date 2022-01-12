@@ -19,6 +19,7 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="50">](https://t.me/voko_aleksey)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" alt="askubuntu" height="50">](https://askubuntu.com/users/1561126/aleksey-voko)
 [<img src="https://github.com/Aleksey-Voko/Aleksey-Voko/blob/master/assets/habr.png?raw=true" alt="habr" height="50">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" height="50">](https://t.me/oldcodersclub)
 [<img src="https://avatars.githubusercontent.com/u/94781354?s=200&v=4" alt="DroidDump" height="50">](https://github.com/DroidDump)
