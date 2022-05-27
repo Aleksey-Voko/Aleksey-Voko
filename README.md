@@ -1,9 +1,12 @@
 <!--suppress HtmlDeprecatedAttribute -->
+
+[//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">]&#40;https://t.me/voko_aleksey&#41;)
+
+<img align="right" width="100" height="100" alt="giphy" src="https://www.fillmurray.com/100/100">
+
+
+
 # Hey! 👋 Nice to see you. #
-
-
-
-[<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">](https://t.me/voko_aleksey)
 
 
 
