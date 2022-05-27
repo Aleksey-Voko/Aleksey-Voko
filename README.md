@@ -2,7 +2,7 @@
 
 [//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">]&#40;https://t.me/voko_aleksey&#41;)
 
-<img align='right' width="210"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">
+<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">
 
 
 
