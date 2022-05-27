@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true" width="210" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' width="200" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true" alt="giphy">](https://t.me/voko_aleksey)
 
 
 
