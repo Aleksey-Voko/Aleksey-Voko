@@ -24,6 +24,7 @@
 [<img src="https://github.com/Aleksey-Voko/Aleksey-Voko/blob/master/assets/habr.png?raw=true" alt="habr" height="50">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" height="50">](https://t.me/oldcodersclub)
 [<img src="https://avatars.githubusercontent.com/u/94781354?s=200&v=4" alt="DroidDump" height="50">](https://github.com/DroidDump)
+[<img src="https://avatars.githubusercontent.com/u/106444015?s=200&v=4" alt="LessonDump" height="50">](https://github.com/LessonDump)
 
 
 
