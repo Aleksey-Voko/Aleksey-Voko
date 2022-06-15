@@ -27,7 +27,7 @@
 [<img src="https://avatars.githubusercontent.com/u/106444015?s=200&v=4" alt="LessonDump" height="50">](https://github.com/LessonDump)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true&hide_rank=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&hide_rank=true)
 [![@Voko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=10)](https://wakatime.com/@Voko)
 
 <!--
