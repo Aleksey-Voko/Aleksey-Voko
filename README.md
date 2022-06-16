@@ -33,8 +33,8 @@
 -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="github-readme-stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="github-readme-streak-stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="50%" alt="github-readme-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="github-readme-streak-stats"/>
 </p>
 
 <!--
