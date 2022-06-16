@@ -27,8 +27,15 @@
 [<img src="https://avatars.githubusercontent.com/u/106444015?s=200&v=4" alt="LessonDump" height="50">](https://github.com/LessonDump)
 
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&hide_rank=true)
 [![@Voko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=10)](https://wakatime.com/@Voko)
+-->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="github-readme-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="github-readme-streak-stats"/>
+</p>
 
 <!--
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
@@ -46,8 +53,13 @@
 <!-- activity graph end -->
 
 
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+-->
+
+[![@Voko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14)](https://wakatime.com/@Voko)
+![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2&)
 
 
 <p align="center">
