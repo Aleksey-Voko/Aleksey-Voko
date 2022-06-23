@@ -33,13 +33,13 @@
 <img src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/colored.png?raw=true"  width="100%" alt="-----------------------------------------------------"/>
 
 
-<!-- activity graph start -->
+<!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4">
+    <a target="_blank" href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4">
         <img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph end -->
+<!-- activity graph heroku-app end -->
 
 
 <p align="center">
