@@ -35,7 +35,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4" target="_blank">
+    <a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4" target="_blank" rel="noopener noreferrer">
         <code><img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false" width="95%" alt="activity graph"></code>
     </a>
 </p>
