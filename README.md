@@ -30,7 +30,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/colored.png?raw=true"  width="100%" alt="-----------------------------------------------------"/>
+<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
 
 
 <!-- activity graph heroku-app start -->
@@ -54,7 +54,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/colored.png?raw=true"  width="100%" alt="-----------------------------------------------------"/>
+<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
 <p align="center">
