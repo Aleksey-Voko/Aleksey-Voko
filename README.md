@@ -6,13 +6,11 @@
 # Hey! 👋 Nice to see you. #
 
 
-[//]: # ([<img src="./assets/python-original.svg" alt="python" height="100">]&#40;https://docs.python.org/3/library/index.html&#41;)
-
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100"></a>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" height="100">](https://developer.android.com/reference)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="100">](https://golang.org/doc/)
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100"></a>
+<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100"></a>
+<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100"></a>
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50">](mailto:voko.aleksey@gmail.com)
