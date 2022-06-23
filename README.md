@@ -6,7 +6,9 @@
 # Hey! 👋 Nice to see you. #
 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="100">](https://docs.python.org/3/library/index.html)
+[//]: # ([<img src="./assets/python-original.svg" alt="python" height="100">]&#40;https://docs.python.org/3/library/index.html&#41;)
+
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100"></a>
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="100">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" height="100">](https://developer.android.com/reference)
