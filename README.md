@@ -30,12 +30,15 @@
 </p>
 
 
-<!-- activity graph start -->
-<!--
-[<img src="https://safe-garden-10440.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
--->
+<img src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/colored.png?raw=true"  width="100%" alt="-----------------------------------------------------"/>
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+
+<!-- activity graph start -->
+
+<!-- [<img src="https://safe-garden-10440.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4) -->
+
+[<img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+
 <!-- activity graph end -->
 
 
