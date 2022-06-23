@@ -43,14 +43,14 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Voko's wakatime stats"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/>
+<a href="https://wakatime.com/@Voko"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Voko's wakatime stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
 </p>
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksey-Voko&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksey-Voko&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksey-Voko&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksey-Voko&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p>
 
 
