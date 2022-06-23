@@ -13,15 +13,15 @@
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50">](mailto:voko.aleksey@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="50">](https://t.me/voko_aleksey)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" alt="askubuntu" height="50">](https://askubuntu.com/users/1561126/aleksey-voko)
-[<img src="https://github.com/Aleksey-Voko/Aleksey-Voko/blob/master/assets/habr.png?raw=true" alt="habr" height="50">](https://freelance.habr.com/freelancers/Voko_Aleksey)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" height="50">](https://t.me/oldcodersclub)
-[<img src="https://avatars.githubusercontent.com/u/94781354?s=200&v=4" alt="DroidDump" height="50">](https://github.com/DroidDump)
-[<img src="https://avatars.githubusercontent.com/u/106444015?s=200&v=4" alt="LessonDump" height="50">](https://github.com/LessonDump)
+<a href="mailto:voko.aleksey@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/voko_aleksey"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+<a href="https://ru.stackoverflow.com/users/371584/aleksey-voko"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="ru.stackoverflow profile"></a>
+<a href="https://stackoverflow.com/users/13531449/aleksey-voko"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
+<a href="https://askubuntu.com/users/1561126/aleksey-voko"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
+<a href="https://freelance.habr.com/freelancers/Voko_Aleksey"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
+<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Клуб дедов-программистов"></a>
+<a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
+<a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
 
 
 <p align="center">
