@@ -58,7 +58,9 @@
 
 
 <p align="center">
-    <img alt="codewars badge" src="https://www.codewars.com//users/Aleksey-Voko/badges/large">
+    <a href="https://www.codewars.com/users/Aleksey-Voko">
+        <img alt="codewars badge" src="https://www.codewars.com//users/Aleksey-Voko/badges/large">
+    </a>
 </p>
 
 
