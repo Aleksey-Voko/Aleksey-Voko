@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-<a href="https://ru.stackoverflow.com/users/371584/aleksey-voko"><img src="https://ru.stackoverflow.com/users/flair/371584.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Aleksey Voko на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
+<a href="https://stackexchange.com/users/17728350"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 </p>
 
 
