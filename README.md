@@ -72,8 +72,6 @@
 
 <p align="center">
 <a href="https://ru.stackoverflow.com/users/371584/aleksey-voko"><img src="https://ru.stackoverflow.com/users/flair/371584.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Aleksey Voko на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
-<a href="https://stackoverflow.com/users/13531449/aleksey-voko"><img src="https://stackoverflow.com/users/flair/13531449.png?theme=dark" width="208" height="58" alt="profile for Aleksey Voko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aleksey Voko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<a href="https://askubuntu.com/users/1561126/aleksey-voko"><img src="https://askubuntu.com/users/flair/1561126.png?theme=dark" width="208" height="58" alt="profile for Aleksey Voko at Ask Ubuntu, Q&amp;A for Ubuntu users and developers" title="profile for Aleksey Voko at Ask Ubuntu, Q&amp;A for Ubuntu users and developers"></a>
 </p>
 
 
