@@ -1,15 +1,16 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
+
 [//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">]&#40;https://t.me/voko_aleksey&#41;)
 
 
 # Hey! 👋 Nice to see you. #
 
 
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
 
 
@@ -69,6 +70,7 @@
 <a href="https://github.com/Aleksey-Voko?tab=following"><img src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/Aleksey-Voko?tab=followers"><img src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
+
 
 <p align="center">
 <a href="https://stackexchange.com/users/17728350/aleksey-voko?tab=accounts"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
