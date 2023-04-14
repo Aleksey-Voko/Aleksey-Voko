@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><linearGradient id="kotlin-original-a" gradientUnits="userSpaceOnUse" x1="-11.899" y1="48.694" x2="40.299" y2="-8.322"><stop offset="0" stop-color="#1c93c1"/><stop offset=".163" stop-color="#2391c0"/><stop offset=".404" stop-color="#378bbe"/><stop offset=".696" stop-color="#587eb9"/><stop offset=".995" stop-color="#7f6cb1"/></linearGradient><path fill="url(#kotlin-original-a)" d="M0 0h65.4L0 64.4z"/><linearGradient id="kotlin-original-b" gradientUnits="userSpaceOnUse" x1="43.553" y1="149.174" x2="95.988" y2="94.876"><stop offset="0" stop-color="#1c93c1"/><stop offset=".216" stop-color="#2d8ebf"/><stop offset=".64" stop-color="#587eb9"/><stop offset=".995" stop-color="#7f6cb1"/></linearGradient><path fill="url(#kotlin-original-b)" d="M128 128L64.6 62.6 0 128z"/><linearGradient id="kotlin-original-c" gradientUnits="userSpaceOnUse" x1="3.24" y1="95.249" x2="92.481" y2="2.116"><stop offset="0" stop-color="#c757a7"/><stop offset=".046" stop-color="#ca5a9e"/><stop offset=".241" stop-color="#d66779"/><stop offset=".428" stop-color="#e17357"/><stop offset=".6" stop-color="#e97c3a"/><stop offset=".756" stop-color="#ef8324"/><stop offset=".888" stop-color="#f28817"/><stop offset=".982" stop-color="#f48912"/></linearGradient><path fill="url(#kotlin-original-c)" d="M0 128L128 0H64.6L0 63.7z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-80 -80 660 660" width="105" height="105" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<g id="Logotypes">
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="500.0035" y1="579.1058" x2="-9.653803e-02" y2="1079.2058" gradientTransform="matrix(0.9998 0 0 0.9998 9.651873e-02 -578.99)">
+			<stop  offset="3.435144e-03" style="stop-color:#E44857"/>
+			<stop  offset="0.4689" style="stop-color:#C711E1"/>
+			<stop  offset="1" style="stop-color:#7F52FF"/>
+		</linearGradient>
+		<polygon class="st0" points="500,500 0,500 0,0 500,0 250,250 		"/>
+	</g>
+</g>
+</svg>
