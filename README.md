@@ -1,11 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 
-<!--
-[<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true">](https://t.me/voko_aleksey)
--->
-
-
 # Hey! 👋 Nice to see you. #
 
 
@@ -71,15 +66,6 @@
         <img alt="codewars badge" src="https://www.codewars.com//users/Aleksey-Voko/badges/large">
     </a>
 </p>
-
-
-<!--
-<p align="center">
-    <a href="https://leetcode.com/Aleksey-Voko/">
-        <img alt="leetcode badge" src="https://leetcode.card.workers.dev/Aleksey-Voko?theme=nord&font=source_code_pro&extension=null">
-    </a>
-</p>
--->
 
 
 <p align="center">
