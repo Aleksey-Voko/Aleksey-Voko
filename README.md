@@ -85,7 +85,8 @@
 
 
 <p align="center">
-<a href="https://stackexchange.com/users/17728350/aleksey-voko?tab=accounts"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://stackexchange.com/users/17728350/aleksey-voko?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://stackexchange.com/users/17728350/aleksey-voko?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 <a href="https://stackoverflow.com/users/13531449/aleksey-voko"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
 </p>
 
