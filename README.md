@@ -30,7 +30,7 @@
 <a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
 
 <!-- github-readme-stats end -->
 
