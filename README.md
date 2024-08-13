@@ -1,9 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 
-# Hey! 👋 Nice to see you. #
-
-
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
